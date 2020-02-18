@@ -8,3 +8,4 @@
 - [x] Rotate Array
 - [x] Contains Duplicate
 - [x] Single Number
+- [x] Intersection of Two Arrays
