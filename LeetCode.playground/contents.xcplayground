@@ -3,5 +3,6 @@
     <pages>
         <page name='Remove Duplicates from Sorted Array '/>
         <page name='Rotate Array '/>
+        <page name=' Contains Duplicate '/>
     </pages>
 </playground>
