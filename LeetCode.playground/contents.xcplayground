@@ -8,5 +8,6 @@
         <page name='Intersection of Two Arrays'/>
         <page name='Plus One'/>
         <page name='Move Zeroes '/>
+        <page name='Two Sum '/>
     </pages>
 </playground>
