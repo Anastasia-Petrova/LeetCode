@@ -9,3 +9,6 @@
 - [x] Contains Duplicate
 - [x] Single Number
 - [x] Intersection of Two Arrays
+- [x] Plus One
+- [x] Move Zeroes
+- [x] Two Sums
