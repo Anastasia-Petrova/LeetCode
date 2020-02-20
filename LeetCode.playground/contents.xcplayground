@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Remove Duplicates from Sorted Array'/>
         <page name='Rotate Array'/>
         <page name='Contains Duplicate'/>
         <page name='Single Number'/>
         <page name='Intersection of Two Arrays'/>
+        <page name='Plus One'/>
+        <page name='Move Zeroes '/>
     </pages>
 </playground>
