@@ -11,6 +11,7 @@
         <page name='Two Sum '/>
         <page name='Valid Sudoku'/>
         <page name='Rotate Image '/>
-        <page name='Rotate String'/>
+        <page name='Reverse String'/>
+        <page name='Reverse Integer '/>
     </pages>
 </playground>
