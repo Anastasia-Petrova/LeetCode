@@ -22,3 +22,7 @@
 - [x] First Unique Character in a String
 - [x] Valid Anagram
 - [x] Valid Palindrome
+- [x] String to Integer (atoi)
+- [x] Implement strStr()
+- [x] Count and Say
+- [x] Longest Common Prefix 
