@@ -18,5 +18,6 @@
         <page name='Valid Palindrome'/>
         <page name='String to Integer (atoi)'/>
         <page name='Implement strStr() '/>
+        <page name='Count and Say '/>
     </pages>
 </playground>
