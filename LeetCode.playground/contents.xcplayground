@@ -19,5 +19,6 @@
         <page name='String to Integer (atoi)'/>
         <page name='Implement strStr() '/>
         <page name='Count and Say '/>
+        <page name='Longest Common Prefix '/>
     </pages>
 </playground>
