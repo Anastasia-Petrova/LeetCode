@@ -16,5 +16,6 @@
         <page name='First Unique Character in a String '/>
         <page name='Valid Anagram'/>
         <page name='Valid Palindrome'/>
+        <page name='String to Integer (atoi)'/>
     </pages>
 </playground>
