@@ -14,3 +14,11 @@
 - [x] Two Sums
 - [x] Valid Sudoku
 - [x] Rotate Image 
+
+### Strings:
+
+- [x] Reverse String
+- [x] Reverse Integer 
+- [x] First Unique Character in a String
+- [x] Valid Anagram
+- [x] Valid Palindrome
