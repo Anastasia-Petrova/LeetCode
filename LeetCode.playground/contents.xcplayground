@@ -10,6 +10,7 @@
         <page name='Move Zeroes '/>
         <page name='Two Sum '/>
         <page name='Valid Sudoku'/>
-        <page name=' Rotate Image '/>
+        <page name='Rotate Image '/>
+        <page name='Rotate String'/>
     </pages>
 </playground>
