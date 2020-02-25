@@ -12,3 +12,5 @@
 - [x] Plus One
 - [x] Move Zeroes
 - [x] Two Sums
+- [x] Valid Sudoku
+- [x] Rotate Image 
