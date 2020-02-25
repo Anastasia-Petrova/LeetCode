@@ -9,5 +9,6 @@
         <page name='Plus One'/>
         <page name='Move Zeroes '/>
         <page name='Two Sum '/>
+        <page name='Valid Sudoku'/>
     </pages>
 </playground>
