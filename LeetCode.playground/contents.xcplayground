@@ -21,5 +21,6 @@
         <page name='Count and Say '/>
         <page name='Longest Common Prefix '/>
         <page name='Merge Sorted Array '/>
+        <page name='Fizz Buzz'/>
     </pages>
 </playground>

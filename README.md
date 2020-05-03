@@ -30,3 +30,7 @@
 ### Sorting and searching:
 
 - [x] Merge Sorted Array
+
+### Math:
+
+- [x] Fizz Buzz
