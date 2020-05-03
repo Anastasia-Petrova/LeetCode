@@ -26,3 +26,7 @@
 - [x] Implement strStr()
 - [x] Count and Say
 - [x] Longest Common Prefix 
+
+### Sorting and searching:
+
+- [x] Merge Sorted Array
