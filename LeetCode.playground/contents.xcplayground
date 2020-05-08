@@ -23,5 +23,6 @@
         <page name='Merge Sorted Array '/>
         <page name='Fizz Buzz'/>
         <page name='Power of Three '/>
+        <page name='Roman to Integer '/>
     </pages>
 </playground>
