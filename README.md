@@ -34,3 +34,4 @@
 ### Math:
 
 - [x] Fizz Buzz
+- [x] Power of Three

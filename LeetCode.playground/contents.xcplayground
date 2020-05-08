@@ -22,5 +22,6 @@
         <page name='Longest Common Prefix '/>
         <page name='Merge Sorted Array '/>
         <page name='Fizz Buzz'/>
+        <page name='Power of Three '/>
     </pages>
 </playground>
