@@ -29,23 +29,16 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 */
 
 func romanToInt(_ s: String) -> Int {
-  let array = s.compactMap { char -> Int? in
-    if char == "I" {
-      return 1
-    } else if char == "V" {
-      return 5
-    } else if char == "X" {
-      return 10
-    } else if char == "L" {
-      return 50
-    } else if char == "C" {
-      return 100
-    } else if char == "D" {
-      return 500
-    } else if char == "M" {
-      return 1000
-    } else {
-      return nil
+  let array:[Int] = s.compactMap {
+    switch $0 {
+    case "I": return 1
+    case "V": return 5
+    case "X": return 10
+    case "L": return 50
+    case "C": return 100
+    case "D": return 500
+    case "M": return 1000
+    default : return nil
     }
   }
   
