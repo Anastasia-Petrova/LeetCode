@@ -36,3 +36,7 @@
 - [x] Fizz Buzz
 - [x] Power of Three
 - [x] Roman to Integer
+
+### Others:
+
+- [x] Missing Number
