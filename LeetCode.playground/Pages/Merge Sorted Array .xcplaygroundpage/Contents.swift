@@ -16,14 +16,32 @@
 */
 
 func merge(_ nums1: inout [Int], _ m: Int, _ nums2: [Int], _ n: Int) {
-    if nums1.count > m {
-        let prefix = nums1.prefix(m)
-        let twoNums = prefix + nums2
-        nums1 = twoNums.sorted()
-    } else {
-        let twoNums = nums1 + nums2
-        nums1 = twoNums.sorted()
-    }
+  guard n > 0 else {return}
+  guard m > 0 else {
+    nums1 = nums2
+    return
+  }
+  
+  var twoNums: [Int] = []
+  if nums1.count > m {
+    let prefix = nums1.prefix(m)
+    twoNums = prefix + nums2
+  } else {
+    twoNums = nums1 + nums2
+  }
+  for primaryindex in 0..<twoNums.count {
+      let key = twoNums[primaryindex]
+      var secondaryindex = primaryindex
+      
+      while secondaryindex > -1 {
+          if key < twoNums[secondaryindex] {
+              twoNums.remove(at: secondaryindex + 1)
+              twoNums.insert(key, at: secondaryindex)
+          }
+          secondaryindex -= 1
+      }
+  }
+  nums1 = twoNums
 }
 
 import XCTest
