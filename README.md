@@ -30,6 +30,7 @@
 ### Sorting and searching:
 
 - [x] Merge Sorted Array
+- [x] First Bad Version
 
 ### Math:
 

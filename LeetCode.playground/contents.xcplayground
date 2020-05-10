@@ -25,5 +25,6 @@
         <page name='Power of Three '/>
         <page name='Roman to Integer '/>
         <page name='Missing Number'/>
+        <page name=' First Bad Version '/>
     </pages>
 </playground>
