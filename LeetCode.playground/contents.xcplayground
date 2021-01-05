@@ -27,5 +27,6 @@
         <page name='Missing Number'/>
         <page name=' First Bad Version '/>
         <page name='Valid Parentheses'/>
+        <page name='Pascal&apos;s Triangle'/>
     </pages>
 </playground>

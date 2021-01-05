@@ -42,3 +42,4 @@
 
 - [x] Missing Number
 - [x] Valid Parentheses
+- [x] Pascal's Triangle
