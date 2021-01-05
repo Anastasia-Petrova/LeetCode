@@ -41,3 +41,4 @@
 ### Others:
 
 - [x] Missing Number
+- [x] Valid Parentheses

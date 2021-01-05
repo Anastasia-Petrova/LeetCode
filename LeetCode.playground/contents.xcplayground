@@ -26,5 +26,6 @@
         <page name='Roman to Integer '/>
         <page name='Missing Number'/>
         <page name=' First Bad Version '/>
+        <page name='Valid Parentheses'/>
     </pages>
 </playground>
