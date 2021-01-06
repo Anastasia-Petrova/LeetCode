@@ -40,6 +40,7 @@
 
 ### Others:
 
+- [x] Number of 1 Bits
 - [x] Missing Number
 - [x] Valid Parentheses
 - [x] Pascal's Triangle

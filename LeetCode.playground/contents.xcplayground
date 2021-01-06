@@ -28,5 +28,6 @@
         <page name=' First Bad Version '/>
         <page name='Valid Parentheses'/>
         <page name='Pascal&apos;s Triangle'/>
+        <page name='Number of 1 Bits'/>
     </pages>
 </playground>
