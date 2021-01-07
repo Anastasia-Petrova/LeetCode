@@ -41,6 +41,7 @@
 ### Others:
 
 - [x] Number of 1 Bits
+- [x] Hamming Distance
 - [x] Missing Number
 - [x] Valid Parentheses
 - [x] Pascal's Triangle
