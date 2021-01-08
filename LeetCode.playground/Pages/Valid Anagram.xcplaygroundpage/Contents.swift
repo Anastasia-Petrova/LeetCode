@@ -20,11 +20,22 @@
 */
 
 func isAnagram(_ s: String, _ t: String) -> Bool {
-    return s.sorted() == t.sorted()
+return s.sorted() == t.sorted()
+}
+
+func isAnagram2(_ s: String, _ t: String) -> Bool {
+  guard s.count == t.count else { return false }
+  var temp = t
+  for char in s {
+    guard let index = temp.firstIndex(of: char) else { return false }
+    temp.remove(at: index)
+  }
+  return  true
 }
 
 import XCTest
-let string1 = "anagram"
-let string2 = "nagaram"
-XCTAssertEqual(isAnagram(string1, string2), true)
+XCTAssertEqual(isAnagram("anagram", "nagaram"), true)
+XCTAssertEqual(isAnagram("car", "rat"), false)
+XCTAssertEqual(isAnagram2("anagram", "nagaram"), true)
+XCTAssertEqual(isAnagram2("car", "rat"), false)
 //: [Next](@next)
