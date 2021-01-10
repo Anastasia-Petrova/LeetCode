@@ -30,5 +30,7 @@
         <page name='Pascal&apos;s Triangle'/>
         <page name='Number of 1 Bits'/>
         <page name='Hamming Distance'/>
+        <page name='Reverse Bits'/>
+        <page name='Count Primes'/>
     </pages>
 </playground>

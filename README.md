@@ -35,6 +35,7 @@
 ### Math:
 
 - [x] Fizz Buzz
+- [x] Count Primes
 - [x] Power of Three
 - [x] Roman to Integer
 
