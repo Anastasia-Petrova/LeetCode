@@ -14,6 +14,7 @@
 - [x] Two Sums
 - [x] Valid Sudoku
 - [x] Rotate Image 
+- [x] Group Anagrams
 
 ### Strings:
 

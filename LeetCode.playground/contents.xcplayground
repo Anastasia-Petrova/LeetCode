@@ -32,5 +32,6 @@
         <page name='Hamming Distance'/>
         <page name='Reverse Bits'/>
         <page name='Count Primes'/>
+        <page name='Group Anagrams'/>
     </pages>
 </playground>
