@@ -27,6 +27,7 @@
 - [x] Implement strStr()
 - [x] Count and Say
 - [x] Longest Common Prefix 
+- [x] Longest Substring Without Repeating Characters
 
 ### Sorting and searching:
 
